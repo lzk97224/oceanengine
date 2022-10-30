@@ -1,8 +1,8 @@
 package file
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/file"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/file"
 )
 
 // ImageAdvertiser 上传广告主图片

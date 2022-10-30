@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/bububa/oceanengine/marketing-api/enum"
-	"github.com/bububa/oceanengine/marketing-api/model"
+	"github.com/lzk97224/oceanengine/marketing-api/enum"
+	"github.com/lzk97224/oceanengine/marketing-api/model"
 )
 
 // GetRequest 获取数据报表API Request

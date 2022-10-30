@@ -1,7 +1,7 @@
 package creative
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/model"
+	"github.com/lzk97224/oceanengine/marketing-api/model"
 )
 
 // GetResponse 获取创意列表 API Response
@@ -18,4 +18,3 @@ type GetResponseData struct {
 	// PageInfo 分页信息
 	PageInfo *model.PageInfo `json:"page_info,omitempty"`
 }
-

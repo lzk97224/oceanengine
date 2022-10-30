@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/bububa/oceanengine/marketing-api/model"
+	"github.com/lzk97224/oceanengine/marketing-api/model"
 )
 
 // CompanyInfoGetRequest 获取纵横组织下所有主体信息 API Request

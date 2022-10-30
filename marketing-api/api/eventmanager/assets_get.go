@@ -1,8 +1,8 @@
 package eventmanager
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/eventmanager"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/eventmanager"
 )
 
 // AssetsGet 获取已创建资产列表

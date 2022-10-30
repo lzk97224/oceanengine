@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/bububa/oceanengine/marketing-api/enum"
-	"github.com/bububa/oceanengine/marketing-api/model/track"
+	"github.com/lzk97224/oceanengine/marketing-api/enum"
+	"github.com/lzk97224/oceanengine/marketing-api/model/track"
 )
 
 // Active API上报数据(new)

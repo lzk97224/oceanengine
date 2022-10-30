@@ -1,8 +1,8 @@
 package servemarket
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/servemarket"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/servemarket"
 )
 
 // ActiveFuncGet 获取用户已购功能点列表

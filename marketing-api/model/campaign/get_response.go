@@ -1,8 +1,8 @@
 package campaign
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/enum"
-	"github.com/bububa/oceanengine/marketing-api/model"
+	"github.com/lzk97224/oceanengine/marketing-api/enum"
+	"github.com/lzk97224/oceanengine/marketing-api/model"
 )
 
 // GetResponse 获取广告组 API Response

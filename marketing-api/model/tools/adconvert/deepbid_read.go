@@ -4,8 +4,8 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/bububa/oceanengine/marketing-api/enum"
-	"github.com/bububa/oceanengine/marketing-api/model"
+	"github.com/lzk97224/oceanengine/marketing-api/enum"
+	"github.com/lzk97224/oceanengine/marketing-api/model"
 )
 
 // DeepbidReqdRequest 查询深度优化方式 API Request

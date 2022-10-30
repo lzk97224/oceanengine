@@ -1,8 +1,8 @@
 package interestaction
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/tools/interestaction"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/tools/interestaction"
 )
 
 // InterestCategory 兴趣类目查询

@@ -2,7 +2,7 @@ syntax = "proto2";
 
 package toutiao.dmp;
 option java_outer_classname = "DmpDataProto";
-option go_package="github.com/bububa/oceanengine/marketing-api/model/dmp/datasource";
+option go_package="github.com/lzk97224/oceanengine/marketing-api/model/dmp/datasource";
 message DmpData { //上传文件每行一个base64编码的字符串，每个字符串包含一个完整的DmpData消息二进制字节串
   repeated IdItem idList         = 1; // 每行数据包含的idList大小不能超过10000
 }

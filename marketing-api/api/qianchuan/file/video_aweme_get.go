@@ -1,8 +1,8 @@
 package file
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/qianchuan/file"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/qianchuan/file"
 )
 
 // VideoAwemeGet 获取抖音号下的视频

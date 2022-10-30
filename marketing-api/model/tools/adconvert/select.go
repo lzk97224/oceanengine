@@ -5,8 +5,8 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/bububa/oceanengine/marketing-api/enum"
-	"github.com/bububa/oceanengine/marketing-api/model"
+	"github.com/lzk97224/oceanengine/marketing-api/enum"
+	"github.com/lzk97224/oceanengine/marketing-api/model"
 )
 
 // SelectRequest 转化目标列表 API Request

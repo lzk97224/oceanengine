@@ -1,8 +1,8 @@
 package diagnosis
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/tools/diagnosis"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/tools/diagnosis"
 )
 
 // SuggestionAccept 采纳计划诊断建议

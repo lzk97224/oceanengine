@@ -1,8 +1,8 @@
 package dpa
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/dpa"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/dpa"
 )
 
 // BehaviourAvailables 获取DPA可用行为

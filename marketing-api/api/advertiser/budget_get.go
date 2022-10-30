@@ -1,8 +1,8 @@
 package advertiser
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/advertiser"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/advertiser"
 )
 
 // BudgetGet 获取账户日预算

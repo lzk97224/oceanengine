@@ -1,6 +1,6 @@
 package form
 
-import "github.com/bububa/oceanengine/marketing-api/enum"
+import "github.com/lzk97224/oceanengine/marketing-api/enum"
 
 // FormType 表单类型
 type FormType string

@@ -1,8 +1,8 @@
 package tools
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/tools"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/tools"
 )
 
 // PromotionCardRecommendTitleGet 查询推广卡片推荐内容（新版）

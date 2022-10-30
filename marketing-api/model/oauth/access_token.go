@@ -1,8 +1,8 @@
 package oauth
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/model"
-	"github.com/bububa/oceanengine/marketing-api/util"
+	"github.com/lzk97224/oceanengine/marketing-api/model"
+	"github.com/lzk97224/oceanengine/marketing-api/util"
 )
 
 // AccessTokenRequest 获取Access Token API Request

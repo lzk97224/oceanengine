@@ -1,8 +1,8 @@
 package clue
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/tools/clue"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/tools/clue"
 )
 
 // FormDetail 建站工具——查询表单详情

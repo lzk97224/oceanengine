@@ -1,7 +1,7 @@
 package ad
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/util"
+	"github.com/lzk97224/oceanengine/marketing-api/util"
 )
 
 // UpdateBudgetRequest 更新计划预算 API Request

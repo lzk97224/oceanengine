@@ -1,8 +1,8 @@
 package aweme
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/tools/aweme"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/tools/aweme"
 )
 
 // AwemeCategoryTopAuthorGet 查询抖音类目下的推荐达人

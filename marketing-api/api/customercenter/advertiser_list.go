@@ -1,8 +1,8 @@
 package customercenter
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/customercenter"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/customercenter"
 )
 
 // AdvertiserList 获取纵横组织下资产账户列表（分页）

@@ -1,8 +1,8 @@
 package site
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/model"
-	"github.com/bububa/oceanengine/marketing-api/util"
+	"github.com/lzk97224/oceanengine/marketing-api/model"
+	"github.com/lzk97224/oceanengine/marketing-api/util"
 )
 
 // HandselRequest 建站工具-建站转赠 API Request

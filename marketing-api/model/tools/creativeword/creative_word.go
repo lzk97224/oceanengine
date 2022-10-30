@@ -1,6 +1,6 @@
 package creativeword
 
-import "github.com/bububa/oceanengine/marketing-api/enum"
+import "github.com/lzk97224/oceanengine/marketing-api/enum"
 
 // CreativeWord 创意词包
 type CreativeWord struct {

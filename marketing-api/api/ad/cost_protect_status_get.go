@@ -1,8 +1,8 @@
 package ad
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/ad"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/ad"
 )
 
 // CostProtectStatusGet 批量获取计划成本保障状态

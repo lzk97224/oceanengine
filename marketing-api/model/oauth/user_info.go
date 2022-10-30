@@ -1,7 +1,7 @@
 package oauth
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/model"
+	"github.com/lzk97224/oceanengine/marketing-api/model"
 )
 
 // UserInfoResponse 获取授权User信息 API Response

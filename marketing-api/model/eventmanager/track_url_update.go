@@ -1,6 +1,6 @@
 package eventmanager
 
-import "github.com/bububa/oceanengine/marketing-api/util"
+import "github.com/lzk97224/oceanengine/marketing-api/util"
 
 // TrackURLUpdateRequest 事件资产下更新监测链接组 API Request
 type TrackURLUpdateRequest struct {

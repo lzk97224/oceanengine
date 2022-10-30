@@ -1,9 +1,9 @@
 package file
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/enum"
-	"github.com/bububa/oceanengine/marketing-api/model"
-	"github.com/bububa/oceanengine/marketing-api/util"
+	"github.com/lzk97224/oceanengine/marketing-api/enum"
+	"github.com/lzk97224/oceanengine/marketing-api/model"
+	"github.com/lzk97224/oceanengine/marketing-api/util"
 )
 
 // MaterialBindRequest 素材推送 API Request

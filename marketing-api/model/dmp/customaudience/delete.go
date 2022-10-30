@@ -1,7 +1,7 @@
 package customaudience
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/util"
+	"github.com/lzk97224/oceanengine/marketing-api/util"
 )
 
 // DeleteRequest 删除人群包

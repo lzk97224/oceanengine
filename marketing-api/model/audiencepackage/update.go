@@ -1,9 +1,9 @@
 package audiencepackage
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/enum"
-	"github.com/bububa/oceanengine/marketing-api/model"
-	"github.com/bububa/oceanengine/marketing-api/util"
+	"github.com/lzk97224/oceanengine/marketing-api/enum"
+	"github.com/lzk97224/oceanengine/marketing-api/model"
+	"github.com/lzk97224/oceanengine/marketing-api/util"
 )
 
 // UpdateRequest 更新定向包 API Request

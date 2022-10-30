@@ -1,8 +1,8 @@
 package star
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/star"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/star"
 )
 
 // DemandOrderList 获取星图客户任务订单列表

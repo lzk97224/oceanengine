@@ -1,9 +1,9 @@
 package adraise
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/enum"
-	"github.com/bububa/oceanengine/marketing-api/model"
-	"github.com/bububa/oceanengine/marketing-api/util"
+	"github.com/lzk97224/oceanengine/marketing-api/enum"
+	"github.com/lzk97224/oceanengine/marketing-api/model"
+	"github.com/lzk97224/oceanengine/marketing-api/util"
 )
 
 // SetRequest 设置一键起量 API Request

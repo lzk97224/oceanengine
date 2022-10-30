@@ -1,7 +1,7 @@
 package comment
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/util"
+	"github.com/lzk97224/oceanengine/marketing-api/util"
 )
 
 // TermsBannedAddRequest 添加屏蔽词 API Request

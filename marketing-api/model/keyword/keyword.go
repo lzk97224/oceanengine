@@ -1,6 +1,6 @@
 package keyword
 
-import "github.com/bububa/oceanengine/marketing-api/enum"
+import "github.com/lzk97224/oceanengine/marketing-api/enum"
 
 // Keyword 关键词
 type Keyword struct {

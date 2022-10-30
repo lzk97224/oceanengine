@@ -3,8 +3,8 @@ package taskraise
 import (
 	"encoding/json"
 
-	"github.com/bububa/oceanengine/marketing-api/enum"
-	"github.com/bububa/oceanengine/marketing-api/model"
+	"github.com/lzk97224/oceanengine/marketing-api/enum"
+	"github.com/lzk97224/oceanengine/marketing-api/model"
 )
 
 // CreateRequest 新建优选起量任务 API Request

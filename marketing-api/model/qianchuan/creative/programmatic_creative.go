@@ -1,6 +1,6 @@
 package creative
 
-import "github.com/bububa/oceanengine/marketing-api/enum/qianchuan"
+import "github.com/lzk97224/oceanengine/marketing-api/enum/qianchuan"
 
 // ProgrammaticCreativeMedia 程序化创意素材信息
 type ProgrammaticCreativeMedia struct {

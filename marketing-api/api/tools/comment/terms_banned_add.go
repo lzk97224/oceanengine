@@ -1,8 +1,8 @@
 package comment
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/tools/comment"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/tools/comment"
 )
 
 // TermsBannedAdd 添加屏蔽词

@@ -4,9 +4,9 @@ import (
 	"regexp"
 	"strconv"
 
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/enum"
-	"github.com/bububa/oceanengine/marketing-api/model/tools/adraise"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/enum"
+	"github.com/lzk97224/oceanengine/marketing-api/model/tools/adraise"
 )
 
 // Status 获取当前起量状态: 获取当前起量状态

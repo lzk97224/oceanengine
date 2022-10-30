@@ -1,8 +1,8 @@
 package liveroom
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/report/liveroom"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/report/liveroom"
 )
 
 // AudiencePortraitGet 直播受众分析报表

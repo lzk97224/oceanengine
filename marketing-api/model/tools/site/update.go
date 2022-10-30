@@ -1,7 +1,7 @@
 package site
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/util"
+	"github.com/lzk97224/oceanengine/marketing-api/util"
 )
 
 // UpdateRequest 修改橙子建站站点 API Request

@@ -1,6 +1,6 @@
 package customaudience
 
-import "github.com/bububa/oceanengine/marketing-api/enum"
+import "github.com/lzk97224/oceanengine/marketing-api/enum"
 
 // CustomAudience 人群包
 type CustomAudience struct {

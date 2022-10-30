@@ -1,8 +1,8 @@
 package ad
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/qianchuan/ad"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/qianchuan/ad"
 )
 
 // Get 获取账户下计划列表（不含创意）

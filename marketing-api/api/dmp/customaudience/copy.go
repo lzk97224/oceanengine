@@ -1,8 +1,8 @@
 package customaudience
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/dmp/customaudience"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/dmp/customaudience"
 )
 
 // Copy 推送dmp人群包到云图账户

@@ -1,6 +1,6 @@
 package dpa
 
-import "github.com/bububa/oceanengine/marketing-api/enum"
+import "github.com/lzk97224/oceanengine/marketing-api/enum"
 
 // Platform 商品库详情
 type Platform struct {

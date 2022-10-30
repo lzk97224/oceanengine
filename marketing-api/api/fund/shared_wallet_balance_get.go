@@ -1,8 +1,8 @@
 package fund
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/fund"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/fund"
 )
 
 // SharedWalletFundGet 获取共享钱包余额

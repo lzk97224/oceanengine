@@ -1,6 +1,6 @@
 package file
 
-import "github.com/bububa/oceanengine/marketing-api/enum"
+import "github.com/lzk97224/oceanengine/marketing-api/enum"
 
 // Video 视频
 type Video struct {

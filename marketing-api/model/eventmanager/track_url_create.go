@@ -1,6 +1,6 @@
 package eventmanager
 
-import "github.com/bububa/oceanengine/marketing-api/util"
+import "github.com/lzk97224/oceanengine/marketing-api/util"
 
 // TrackURLCreateRequest 事件资产下创建监测链接组 API Request
 type TrackURLCreateRequest struct {

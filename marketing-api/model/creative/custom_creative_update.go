@@ -1,7 +1,7 @@
 package creative
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/util"
+	"github.com/lzk97224/oceanengine/marketing-api/util"
 )
 
 // CustomCreativeUpdateRequest 修改自定义创意 API Request

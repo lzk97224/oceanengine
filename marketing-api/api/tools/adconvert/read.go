@@ -1,8 +1,8 @@
 package adconvert
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/tools/adconvert"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/tools/adconvert"
 )
 
 // Read 查询转化目标详细信息

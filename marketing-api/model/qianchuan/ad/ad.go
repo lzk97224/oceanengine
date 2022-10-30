@@ -1,9 +1,9 @@
 package ad
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/enum"
-	"github.com/bububa/oceanengine/marketing-api/enum/qianchuan"
-	"github.com/bububa/oceanengine/marketing-api/model/qianchuan/creative"
+	"github.com/lzk97224/oceanengine/marketing-api/enum"
+	"github.com/lzk97224/oceanengine/marketing-api/enum/qianchuan"
+	"github.com/lzk97224/oceanengine/marketing-api/model/qianchuan/creative"
 )
 
 // Ad 计划详情

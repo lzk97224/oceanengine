@@ -10,8 +10,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/bububa/oceanengine/marketing-api/core/internal/debug"
-	"github.com/bububa/oceanengine/marketing-api/model"
+	"github.com/lzk97224/oceanengine/marketing-api/core/internal/debug"
+	"github.com/lzk97224/oceanengine/marketing-api/model"
 )
 
 // SDKClient sdk client

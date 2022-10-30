@@ -1,4 +1,4 @@
-module github.com/bububa/oceanengine
+module github.com/lzk97224/oceanengine
 
 go 1.16
 

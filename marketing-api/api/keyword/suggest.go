@@ -1,8 +1,8 @@
 package keyword
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/keyword"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/keyword"
 )
 
 // Suggest 搜索快投关键词推荐

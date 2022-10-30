@@ -1,7 +1,7 @@
 package keyword
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/util"
+	"github.com/lzk97224/oceanengine/marketing-api/util"
 )
 
 // UpdateRequest 更新关键词 API Request

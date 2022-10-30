@@ -1,8 +1,8 @@
 package sitetemplate
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/model"
-	"github.com/bububa/oceanengine/marketing-api/util"
+	"github.com/lzk97224/oceanengine/marketing-api/model"
+	"github.com/lzk97224/oceanengine/marketing-api/util"
 )
 
 // SiteCreateRequest 基于模板创建站点 API Request

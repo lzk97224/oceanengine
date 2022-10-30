@@ -4,7 +4,7 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/bububa/oceanengine/marketing-api/model"
+	"github.com/lzk97224/oceanengine/marketing-api/model"
 )
 
 // CodeUploadRequest 上传券码 API Request

@@ -1,7 +1,7 @@
 package campaign
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/util"
+	"github.com/lzk97224/oceanengine/marketing-api/util"
 )
 
 // UpdateStatusRequest 广告组更新状态 API Request

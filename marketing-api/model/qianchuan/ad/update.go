@@ -1,9 +1,9 @@
 package ad
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/enum"
-	"github.com/bububa/oceanengine/marketing-api/model/qianchuan/creative"
-	"github.com/bububa/oceanengine/marketing-api/util"
+	"github.com/lzk97224/oceanengine/marketing-api/enum"
+	"github.com/lzk97224/oceanengine/marketing-api/model/qianchuan/creative"
+	"github.com/lzk97224/oceanengine/marketing-api/util"
 )
 
 // UpdateRequest 更新计划（含创意生成规则）

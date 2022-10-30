@@ -1,8 +1,8 @@
 package file
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/model"
-	"github.com/bububa/oceanengine/marketing-api/util"
+	"github.com/lzk97224/oceanengine/marketing-api/model"
+	"github.com/lzk97224/oceanengine/marketing-api/util"
 )
 
 // VideoDeleteRequest 批量删除视频素材 API Request

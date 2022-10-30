@@ -1,6 +1,6 @@
 package track
 
-import "github.com/bububa/oceanengine/marketing-api/enum"
+import "github.com/lzk97224/oceanengine/marketing-api/enum"
 
 // ActiveRequest 线索-API上报数据 API Request
 type ActiveRequest struct {

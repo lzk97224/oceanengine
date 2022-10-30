@@ -1,7 +1,7 @@
 package smartphone
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/util"
+	"github.com/lzk97224/oceanengine/marketing-api/util"
 )
 
 // DeleteRequest 删除智能电话 API Request

@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/bububa/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
 )
 
 // Url 生成授权链接

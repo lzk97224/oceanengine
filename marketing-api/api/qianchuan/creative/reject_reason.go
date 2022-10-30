@@ -1,8 +1,8 @@
 package creative
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/qianchuan/creative"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/qianchuan/creative"
 )
 
 // RejectReason 获取创意审核建议

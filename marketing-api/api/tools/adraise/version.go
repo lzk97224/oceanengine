@@ -1,8 +1,8 @@
 package adraise
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/tools/adraise"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/tools/adraise"
 )
 
 // Version “获取起量版本信息”用于获取计划在多次起量过程中产生的起量版本号及对应的起止时间。

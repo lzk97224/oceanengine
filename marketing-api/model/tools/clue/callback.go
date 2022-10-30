@@ -1,7 +1,7 @@
 package clue
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/util"
+	"github.com/lzk97224/oceanengine/marketing-api/util"
 )
 
 // CallbackReqeust 回传有效线索 API Request

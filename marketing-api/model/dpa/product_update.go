@@ -3,7 +3,7 @@ package dpa
 import (
 	"encoding/json"
 
-	"github.com/bububa/oceanengine/marketing-api/model"
+	"github.com/lzk97224/oceanengine/marketing-api/model"
 )
 
 // ProductUpdateRequest 创建DPA商品（已有商品id）/修改DPA商品 API Request

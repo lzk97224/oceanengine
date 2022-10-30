@@ -1,8 +1,8 @@
 package liveroom
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/report/liveroom"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/report/liveroom"
 )
 
 // AnalysisGet 直播间分析报表

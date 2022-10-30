@@ -1,6 +1,6 @@
 package smartphone
 
-import "github.com/bububa/oceanengine/marketing-api/enum"
+import "github.com/lzk97224/oceanengine/marketing-api/enum"
 
 // SmartPhone 智能电话
 type SmartPhone struct {

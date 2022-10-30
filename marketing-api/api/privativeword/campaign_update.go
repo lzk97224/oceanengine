@@ -1,8 +1,8 @@
 package privativeword
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/privativeword"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/privativeword"
 )
 
 // CampaignUpdate 设置组否定词

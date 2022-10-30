@@ -1,6 +1,6 @@
 package aweme
 
-import "github.com/bububa/oceanengine/marketing-api/enum"
+import "github.com/lzk97224/oceanengine/marketing-api/enum"
 
 // Aweme 抖音号
 type Aweme struct {

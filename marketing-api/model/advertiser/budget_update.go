@@ -1,8 +1,8 @@
 package advertiser
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/enum"
-	"github.com/bububa/oceanengine/marketing-api/util"
+	"github.com/lzk97224/oceanengine/marketing-api/enum"
+	"github.com/lzk97224/oceanengine/marketing-api/util"
 )
 
 // UpdateBudgetRequest 更新账户日预算 API Request

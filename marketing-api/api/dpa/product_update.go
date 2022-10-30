@@ -1,8 +1,8 @@
 package dpa
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/dpa"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/dpa"
 )
 
 // ProductUpdate 创建DPA商品（已有商品id）/修改DPA商品

@@ -1,8 +1,8 @@
 package eventmanager
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/enum"
-	"github.com/bububa/oceanengine/marketing-api/util"
+	"github.com/lzk97224/oceanengine/marketing-api/enum"
+	"github.com/lzk97224/oceanengine/marketing-api/util"
 )
 
 // EventsCreateRequest 资产下创建事件 API Request

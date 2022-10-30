@@ -1,6 +1,6 @@
 package ad
 
-import "github.com/bububa/oceanengine/marketing-api/model"
+import "github.com/lzk97224/oceanengine/marketing-api/model"
 
 // UpdateResponse 计划更新 API Response
 type UpdateResponse struct {

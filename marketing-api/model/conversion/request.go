@@ -3,7 +3,7 @@ package conversion
 import (
 	"encoding/json"
 
-	"github.com/bububa/oceanengine/marketing-api/enum"
+	"github.com/lzk97224/oceanengine/marketing-api/enum"
 )
 
 // Request 转化回传参数

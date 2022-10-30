@@ -1,6 +1,6 @@
 package taskraise
 
-import "github.com/bububa/oceanengine/marketing-api/enum"
+import "github.com/lzk97224/oceanengine/marketing-api/enum"
 
 // Report 任务详情
 type Report struct {

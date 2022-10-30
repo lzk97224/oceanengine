@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/bububa/oceanengine/marketing-api/model"
+	"github.com/lzk97224/oceanengine/marketing-api/model"
 )
 
 // VideoFrameRequest 视频互动流失数据 API Request

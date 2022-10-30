@@ -1,7 +1,7 @@
 package report
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/model"
+	"github.com/lzk97224/oceanengine/marketing-api/model"
 )
 
 // IntegratedResponse 多合一数据报表接口 API Response

@@ -1,6 +1,6 @@
 package landinggroup
 
-import "github.com/bububa/oceanengine/marketing-api/enum"
+import "github.com/lzk97224/oceanengine/marketing-api/enum"
 
 // Site 站点
 type Site struct {

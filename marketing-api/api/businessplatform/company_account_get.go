@@ -1,8 +1,8 @@
 package businessplatform
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/businessplatform"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/businessplatform"
 )
 
 // CompanyAccountGet 获取主体下的账户列表

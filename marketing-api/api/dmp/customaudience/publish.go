@@ -1,8 +1,8 @@
 package customaudience
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/dmp/customaudience"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/dmp/customaudience"
 )
 
 // Publish 发布人群包

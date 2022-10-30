@@ -1,6 +1,6 @@
 package businessplatform
 
-import "github.com/bububa/oceanengine/marketing-api/enum"
+import "github.com/lzk97224/oceanengine/marketing-api/enum"
 
 // PartnerOrganization 发起合作组织请求的组织
 type PartnerOrganization struct {

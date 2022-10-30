@@ -1,8 +1,8 @@
 package interestaction
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/tools/interestaction"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/tools/interestaction"
 )
 
 // KeywordSuggest 获取行为兴趣推荐关键词

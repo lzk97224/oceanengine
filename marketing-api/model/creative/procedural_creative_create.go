@@ -1,6 +1,6 @@
 package creative
 
-import "github.com/bububa/oceanengine/marketing-api/util"
+import "github.com/lzk97224/oceanengine/marketing-api/util"
 
 // ProceduralCreativeCreateRequest 创建程序化创意（营销链路） API Request
 type ProceduralCreativeCreateRequest struct {

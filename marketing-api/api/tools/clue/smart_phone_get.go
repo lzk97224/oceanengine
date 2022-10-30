@@ -1,8 +1,8 @@
 package clue
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/tools/clue"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/tools/clue"
 )
 
 // SmartPhoneGet 建站工具——查询已有智能电话

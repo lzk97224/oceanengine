@@ -1,7 +1,7 @@
 package creative
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/util"
+	"github.com/lzk97224/oceanengine/marketing-api/util"
 )
 
 // UpdateStatusRequest 更新创意状态 API Request

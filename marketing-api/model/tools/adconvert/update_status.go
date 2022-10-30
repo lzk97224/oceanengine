@@ -1,8 +1,8 @@
 package adconvert
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/enum"
-	"github.com/bububa/oceanengine/marketing-api/util"
+	"github.com/lzk97224/oceanengine/marketing-api/enum"
+	"github.com/lzk97224/oceanengine/marketing-api/util"
 )
 
 // UpdateStatusRequest 更新转化目标操作状态

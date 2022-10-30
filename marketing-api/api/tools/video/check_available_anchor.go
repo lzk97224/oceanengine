@@ -1,8 +1,8 @@
 package video
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/tools/video"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/tools/video"
 )
 
 // CheckAvailableAnchor 查询视频是否挂载下载类锚点

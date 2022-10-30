@@ -3,7 +3,7 @@ package comment
 import (
 	"encoding/json"
 
-	"github.com/bububa/oceanengine/marketing-api/model"
+	"github.com/lzk97224/oceanengine/marketing-api/model"
 )
 
 // Reply 评论回复

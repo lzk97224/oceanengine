@@ -1,6 +1,6 @@
 package eventmanager
 
-import "github.com/bububa/oceanengine/marketing-api/enum"
+import "github.com/lzk97224/oceanengine/marketing-api/enum"
 
 // EventConfig 事件详情
 type EventConfig struct {

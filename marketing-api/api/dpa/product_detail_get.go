@@ -1,8 +1,8 @@
 package dpa
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/dpa"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/dpa"
 )
 
 // ProductDetailGet 获取商品详情

@@ -1,8 +1,8 @@
 package creativecomponent
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/assets/creativecomponent"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/assets/creativecomponent"
 )
 
 // Create 创建组件 https://open.oceanengine.com/doc/index.html?key=ad&type=api&id=1696710672391183

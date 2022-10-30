@@ -1,6 +1,6 @@
 package creative
 
-import "github.com/bububa/oceanengine/marketing-api/enum"
+import "github.com/lzk97224/oceanengine/marketing-api/enum"
 
 // PlayableMaterial 基础试玩素材
 type PlayableMaterial struct {

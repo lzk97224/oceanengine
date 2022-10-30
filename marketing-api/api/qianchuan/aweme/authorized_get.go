@@ -1,8 +1,8 @@
 package aweme
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/qianchuan/aweme"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/qianchuan/aweme"
 )
 
 // AuthorizedGet 获取千川账户下已授权抖音号

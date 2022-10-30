@@ -1,8 +1,8 @@
 package businessplatform
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/businessplatform"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/businessplatform"
 )
 
 // CompanyInfoGet 获取纵横组织下所有主体信息

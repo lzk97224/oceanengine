@@ -1,8 +1,8 @@
 package eventmanager
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/eventmanager"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/eventmanager"
 )
 
 // TrackURLCreate 事件资产下创建监测链接组

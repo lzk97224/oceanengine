@@ -1,8 +1,8 @@
 package privativeword
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/model"
-	"github.com/bububa/oceanengine/marketing-api/util"
+	"github.com/lzk97224/oceanengine/marketing-api/model"
+	"github.com/lzk97224/oceanengine/marketing-api/util"
 )
 
 // AdAddRequest 批量新增计划否定词 API Request

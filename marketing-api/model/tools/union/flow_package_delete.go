@@ -3,7 +3,7 @@ package union
 import (
 	"encoding/json"
 
-	"github.com/bububa/oceanengine/marketing-api/model"
+	"github.com/lzk97224/oceanengine/marketing-api/model"
 )
 
 // FlowPackageDeleteRequest 删除穿山甲流量包 API Request

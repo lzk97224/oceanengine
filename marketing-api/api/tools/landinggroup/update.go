@@ -1,8 +1,8 @@
 package landinggroup
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/tools/landinggroup"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/tools/landinggroup"
 )
 
 // Update 更新落地页组信息

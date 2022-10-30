@@ -1,8 +1,8 @@
 package smartphone
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/model"
-	"github.com/bububa/oceanengine/marketing-api/util/query"
+	"github.com/lzk97224/oceanengine/marketing-api/model"
+	"github.com/lzk97224/oceanengine/marketing-api/util/query"
 )
 
 // RecordRequest 查询智能电话拨打记录 API Request

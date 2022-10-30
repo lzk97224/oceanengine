@@ -1,8 +1,8 @@
 package ad
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/enum"
-	"github.com/bububa/oceanengine/marketing-api/enum/qianchuan"
+	"github.com/lzk97224/oceanengine/marketing-api/enum"
+	"github.com/lzk97224/oceanengine/marketing-api/enum/qianchuan"
 )
 
 // DeliverySetting 投放设置

@@ -1,6 +1,6 @@
 package creative
 
-import "github.com/bububa/oceanengine/marketing-api/enum/qianchuan"
+import "github.com/lzk97224/oceanengine/marketing-api/enum/qianchuan"
 
 // VideoMaterial 视频素材
 type VideoMaterial struct {

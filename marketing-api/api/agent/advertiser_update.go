@@ -1,8 +1,8 @@
 package agent
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/agent"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/agent"
 )
 
 // AdvertiserUpdate 修改广告主

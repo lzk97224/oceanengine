@@ -1,6 +1,6 @@
 package clue
 
-import "github.com/bububa/oceanengine/marketing-api/model"
+import "github.com/lzk97224/oceanengine/marketing-api/model"
 
 // Clue 线索
 type Clue struct {

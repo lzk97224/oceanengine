@@ -1,8 +1,8 @@
 package thirdsite
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/tools/thirdsite"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/tools/thirdsite"
 )
 
 // Update 修改第三方落地页站点

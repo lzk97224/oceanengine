@@ -1,6 +1,6 @@
 package star
 
-import "github.com/bububa/oceanengine/marketing-api/enum"
+import "github.com/lzk97224/oceanengine/marketing-api/enum"
 
 // Demand 星图客户任务
 type Demand struct {

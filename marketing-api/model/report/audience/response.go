@@ -1,7 +1,7 @@
 package audience
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/model"
+	"github.com/lzk97224/oceanengine/marketing-api/model"
 )
 
 // Response 受众分析数据报表 API Response

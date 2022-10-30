@@ -2,7 +2,7 @@
 // versions:
 // 	protoc-gen-go v1.26.0
 // 	protoc        v3.17.3
-// source: github.com/bububa/oceanengine/marketing-api/model/dmp/datasource/dmp.proto
+// source: github.com/lzk97224/oceanengine/marketing-api/model/dmp/datasource/dmp.proto
 
 package datasource
 

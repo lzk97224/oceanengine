@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/bububa/oceanengine/marketing-api/enum"
+	"github.com/lzk97224/oceanengine/marketing-api/enum"
 )
 
 // GetRequest 获取创意列表 API Request

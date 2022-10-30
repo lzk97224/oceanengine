@@ -3,7 +3,7 @@ package file
 import (
 	"strconv"
 
-	"github.com/bububa/oceanengine/marketing-api/model"
+	"github.com/lzk97224/oceanengine/marketing-api/model"
 )
 
 // VideoAdRequest 上传广告视频 API Request

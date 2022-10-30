@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/bububa/oceanengine/marketing-api/model"
+	"github.com/lzk97224/oceanengine/marketing-api/model"
 )
 
 // FundDailyStatRequest 查询账户日流水 API Request

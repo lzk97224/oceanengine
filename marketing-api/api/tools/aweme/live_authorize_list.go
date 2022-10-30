@@ -1,8 +1,8 @@
 package aweme
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/tools/aweme"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/tools/aweme"
 )
 
 // LiveAuthorizeList 查询授权直播抖音达人列表

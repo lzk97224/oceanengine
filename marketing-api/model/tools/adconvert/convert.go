@@ -1,6 +1,6 @@
 package adconvert
 
-import "github.com/bububa/oceanengine/marketing-api/enum"
+import "github.com/lzk97224/oceanengine/marketing-api/enum"
 
 // Convert 转化目标详细信息
 type Convert struct {

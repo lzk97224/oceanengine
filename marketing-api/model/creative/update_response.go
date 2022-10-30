@@ -1,6 +1,6 @@
 package creative
 
-import "github.com/bububa/oceanengine/marketing-api/model"
+import "github.com/lzk97224/oceanengine/marketing-api/model"
 
 // UpdateResponse 更新创意 API Response
 type UpdateResponse struct {

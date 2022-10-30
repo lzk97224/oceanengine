@@ -1,8 +1,8 @@
 package shop
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/qianchuan/shop"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/qianchuan/shop"
 )
 
 // AdvertiserList 获取店铺账户关联的广告账户列表

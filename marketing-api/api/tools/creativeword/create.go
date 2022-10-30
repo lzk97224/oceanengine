@@ -1,8 +1,8 @@
 package creativeword
 
 import (
-	"github.com/bububa/oceanengine/marketing-api/core"
-	"github.com/bububa/oceanengine/marketing-api/model/tools/creativeword"
+	"github.com/lzk97224/oceanengine/marketing-api/core"
+	"github.com/lzk97224/oceanengine/marketing-api/model/tools/creativeword"
 )
 
 // Create 创建动态创意词包

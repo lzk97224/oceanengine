@@ -1,6 +1,6 @@
 package dpa
 
-import "github.com/bububa/oceanengine/marketing-api/model"
+import "github.com/lzk97224/oceanengine/marketing-api/model"
 
 // Product 商品详情
 type Product struct {

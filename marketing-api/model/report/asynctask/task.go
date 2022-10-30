@@ -1,6 +1,6 @@
 package asynctask
 
-import "github.com/bububa/oceanengine/marketing-api/enum"
+import "github.com/lzk97224/oceanengine/marketing-api/enum"
 
 // Task 任务
 type Task struct {
